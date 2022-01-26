@@ -27,7 +27,10 @@ Thomas High School was of the type 'Charter', so this is where a very insignific
 
 ## Summary
 **District** Analysis - The scores had changed by less than 0.5% percentage points 
+
 **School Ranking** - No change to rankings, however Thomas High School scores did change.
+
 **Scores by School Size** - Very slight changes to **Medium** (1000-2000) grouping for all scores by less than 0.1%.
+
 **Scores by School Type** - Very low level change to **Charter** type grouping for all scores by less than 0.1%
 **Scores by School Spending** - very unnoticable changes to **$630-644** grouping
