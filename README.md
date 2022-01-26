@@ -9,9 +9,9 @@ School Board was provided with initial analysis based on our work by Maria; and 
 The change of removing math & reading scores for all 9th graders of THS did not have a large impact on the district analysis, with each metric decresing by less that 0.5%. It's important to consider there were only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170, the grade 9 students only make up 1.2% of the total student count, so removing their math and reading scores can only have a very limited impact.
 
 ### School Ranking- Top & Bottom
-The ranking of the **top schools** including THS was not affected by the update.
+The ranking of the **top schools** including THS was **NOT** affected by the update.
 While the average math, reading and overall scores at THS were impacted with the update, the changes were not significant enough to have an impact on its relative ranking versus other schools. 
-The ranking of the **bottom schools** was not affected by the update as the only metrics impacted where at Thomas High School as we are looking at each school's scores.
+The ranking of the **bottom schools** was **NOT** affected by the update as the only metrics impacted where at Thomas High School as we are looking at each school's scores.
 
 ### Impact on Math & Reading Scores by Grade
 The only score that were affected on this DataFrame were of the grade 9 students at THS that had Nan/Null value instead of a grade for both math and reading.
